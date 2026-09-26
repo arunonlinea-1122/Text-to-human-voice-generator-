@@ -1,0 +1,6 @@
+{
+  "name": "Dhvani AI - Human Voice Studio",
+  "description": "Ultra-realistic human-like text-to-speech studio supporting Nepali, Hindi, English, and more with customizable emotions, voices, and dialogue styles using Gemini 3.8 Flash TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
